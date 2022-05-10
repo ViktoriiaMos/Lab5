@@ -1,4 +1,4 @@
-var sw = document.getElementById((9 % 10)+1);
+var sw = document.getElementById((14 % 10)+1);
 var sx = document.querySelector(".text2");
 
 
